@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Voice action examples</string>
+    <string name="title_simple">Simple</string>
+    <string name="title_advanced">Advanced</string>
+</resources>
